@@ -2,19 +2,17 @@
     {
         "Author": "4kraba",
         "Name": "Note 4K",
-        "Punchline": "Open note window /note4k",
-        "Description": "",
-        "InternalName": "note4k",
+        "InternalName": "Note 4K",
         "AssemblyVersion": "1.0.0.0",
+        "Description": "A description.",
         "ApplicableVersion": "any",
-        "Tags": [
-            "4kraba"
-        ],
-        "CategoryTags": [
-            "utility",
-            "other"
-        ],
+        "Tags": [],
         "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "A short one-liner that shows up in /note4k.",
+        "AcceptsFeedback": true
         "DownloadLinkInstall": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note%204K/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
