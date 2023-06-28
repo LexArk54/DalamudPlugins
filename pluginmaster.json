@@ -2,7 +2,7 @@
     {
         "Author": "4kraba",
         "Name": "Note 4K",
-        "Punchline": "Unlocks game window size restriction.",
+        "Punchline": "Open note window /note4k",
         "Description": "",
         "InternalName": "note4k",
         "AssemblyVersion": "1.0.0.0",
