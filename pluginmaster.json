@@ -20,5 +20,27 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note%204K/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1687814974"
+    },
+    {
+        "Author": "4kraba",
+        "Name": "Note 4K2",
+        "InternalName": "Note 4K2",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "A description.",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "A short one-liner that shows up in /note4k.",
+        "AcceptsFeedback": true
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1687814974"
     }
 ]
