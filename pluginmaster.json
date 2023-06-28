@@ -12,9 +12,9 @@
     "LoadPriority": 0,
     "Punchline": "A short one-liner that shows up in /note4k.",
     "AcceptsFeedback": true
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note4K/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note4K/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note4K/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note4K/icon.png"
   }
 ]
