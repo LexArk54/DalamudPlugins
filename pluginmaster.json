@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "4kraba",
+        "Name": "Note 4K",
+        "Punchline": "Unlocks game window size restriction.",
+        "Description": "",
+        "InternalName": "note4k",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "4kraba"
+        ],
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1687814974"
+    }
+]
