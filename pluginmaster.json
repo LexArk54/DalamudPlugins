@@ -32,9 +32,9 @@
     "LoadPriority": 10,
     "Punchline": "Create, share, and shuffle custom title screens for FFXIV.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit/icon.png"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit4K/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit4K/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit4K/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEdit4K/icon.png"
   }
 ]
