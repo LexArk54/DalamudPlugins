@@ -10,7 +10,7 @@
   "LoadRequiredState": 0,
   "LoadSync": true,
   "CanUnloadAsync": false,
-  "LoadPriority": 20,
+  "LoadPriority": 9,
   "Punchline": "Create, share, and shuffle custom title screens for FFXIV.",
   "AcceptsFeedback": true
 }
