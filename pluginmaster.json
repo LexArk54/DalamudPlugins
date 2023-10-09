@@ -1,6 +1,6 @@
 [
   {
-    "Author": "4kraba",
+    "Author": "Lex Ark 4kraba",
     "Name": "Note4K",
     "InternalName": "Note4K",
     "AssemblyVersion": "1.0.0.0",
@@ -16,5 +16,23 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note4K/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note4K/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/Note4K/icon.png"
+  },
+  {
+    "Author": "Lex Ark 4kraba & attick & perchbird",
+    "Name": "TitleEditK4",
+    "InternalName": "TitleEditK4",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "A description.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": true,
+    "LoadPriority": 0,
+    "Punchline": "A short one-liner that shows up in /note4k.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEditK4/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEditK4/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEditK4/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/LexArk54/DalamudPlugins/main/Plugins/TitleEditK4/icon.png"
   }
 ]
