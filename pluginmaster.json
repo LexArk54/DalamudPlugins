@@ -26,6 +26,7 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/LexArk54/TitleEditPlugin",
     "DalamudApiLevel": 9,
+    "Apiversion": 11,
     "LoadRequiredState": 2,
     "LoadSync": true,
     "CanUnloadAsync": false,
